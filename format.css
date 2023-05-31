@@ -219,5 +219,7 @@ iframe{
 		height: 550px;
 		overflow: hidden;
 	}
-
+	.facebook{
+		width: 100%;
+	}
 }
