@@ -220,11 +220,23 @@ iframe{
 		height: 550px;
 		overflow: hidden;
 	}
-	.facebook{
-		width: 100%;
+	.language{
+		font-size: 30px;
+	}
+	.link_index{
+		width: 80%;
+		margin: auto;
+	}
+	.flags{
+		height: 50px;
+	}
+	.logo_start{
+		width: 70%;
+		height: auto;
 	}
 	iframe{
-		width: 100%;
+		width: 80%;
+		padding: 10%;
 		margin: 0px;
 	}
 }
